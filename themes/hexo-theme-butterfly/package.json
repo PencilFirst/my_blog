@@ -1,0 +1,61 @@
+{
+  "_from": "hexo-theme-butterfly@^3.7.8",
+  "_id": "hexo-theme-butterfly@3.7.8",
+  "_inBundle": false,
+  "_integrity": "sha512-Ln466jJjgYs4Km8OaII6wTJ4t1h0m2GrFTkdlJJube2YMB/Jwdg7dyrbb+GhN8OWSFwsFaiw66BlDvN8QvSLUw==",
+  "_location": "/hexo-theme-butterfly",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "hexo-theme-butterfly@^3.7.8",
+    "name": "hexo-theme-butterfly",
+    "escapedName": "hexo-theme-butterfly",
+    "rawSpec": "^3.7.8",
+    "saveSpec": null,
+    "fetchSpec": "^3.7.8"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/hexo-theme-butterfly/-/hexo-theme-butterfly-3.7.8.tgz",
+  "_shasum": "bbe583c86da21044507434ad2b2fd0959c8dbb2a",
+  "_spec": "hexo-theme-butterfly@^3.7.8",
+  "_where": "C:\\Users\\Admin\\Desktop\\blog\\pencil\\themes",
+  "author": {
+    "name": "Jerry",
+    "email": "btf@immyw.com"
+  },
+  "bugs": {
+    "url": "https://github.com/jerryc127/hexo-theme-butterfly/issues",
+    "email": "btf@immyw.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "hexo-renderer-pug": "^1.0.0",
+    "hexo-renderer-stylus": "^2.0.1"
+  },
+  "deprecated": false,
+  "description": "A Simple and Card UI Design theme for Hexo",
+  "homepage": "https://butterfly.js.org/",
+  "keywords": [
+    "hexo",
+    "theme",
+    "butterfly",
+    "Card UI Design",
+    "Jerry",
+    "hexo-theme-butterfly"
+  ],
+  "license": "Apache-2.0",
+  "main": "package.json",
+  "name": "hexo-theme-butterfly",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerryc127/hexo-theme-butterfly.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "3.7.8"
+}
