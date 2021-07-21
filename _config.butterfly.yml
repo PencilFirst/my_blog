@@ -640,7 +640,7 @@ aside:
     button:
       enable: true
       icon: fab fa-github
-      text: Follow Me
+      text: 关注我
       link: https://github.com/PencilFirst
   card_announcement:
     enable: true
