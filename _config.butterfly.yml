@@ -501,10 +501,10 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://www.hualigs.cn/image/60e48d21ddb65.jpg)
+background: url(https://images.pencilfirst.cn/img/bg.jpg)
 
 # Footer Background
-footer_bg: false
+footer_bg: 'rgba(0,0,0,.7)'
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside-bottom:
@@ -640,7 +640,7 @@ aside:
     button:
       enable: true
       icon: fab fa-github
-      text: 关注我
+      text: Github
       link: https://github.com/PencilFirst
   card_announcement:
     enable: true
